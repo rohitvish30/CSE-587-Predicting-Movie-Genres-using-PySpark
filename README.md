@@ -64,7 +64,3 @@ You will submit Assignment3.zip or Assignment3.tar.gz, a compressed archive file
 ●	A video (or link to a video) of you running the assignment and explaining what you did for each part 
  
 ●	A report explaining the logic that you have used to implement each part of the assignment and the F1 score you got from Kaggle. ( make sure that you write names of your team members on the report) 
-  
-Submission is due 05/16/2020, Saturday, 11:59 PM EST. Please use the submit_cse487 or submit_cse587 script in Timberlake to submit your assignment.  
- 
-Ps: Lecture on 04/28/2020 would have more details and discussion on Assignment3 
